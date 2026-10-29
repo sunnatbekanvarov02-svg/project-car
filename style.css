@@ -440,6 +440,7 @@ footer p {
   .contact-box {
     grid-template-columns: 1fr;
   }
+  
 
   .advantages {
     flex-direction: column;
